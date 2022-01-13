@@ -8,6 +8,11 @@ wheel>=0.29
 numpy
 pandas
 scikit-learn
+requests
+bs4
+datetime
+time
+random
 
 # tests/linter
 black
